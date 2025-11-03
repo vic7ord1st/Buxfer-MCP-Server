@@ -219,6 +219,5 @@ VERSION INFORMATION
 Version: 1.0.0
 Last Updated: 2024
 License: Use at your own discretion
-Author: Created for personal Buxfer account management
 
 ================================================================================
